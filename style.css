@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
-    background-image: url("../Images/Optimized\ photos/farm-background-optimized.jpg");
+    background-image: url("farm-background-optimized.jpg");
     background-size: cover; 
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -29,7 +29,7 @@ a {
 
 .header {
     height: 200px;
-    background-image: url("../Images/Optimized\ photos/cloud-headerOptimized.jpg");
+    background-image: url("cloud-headerOptimized.jpg");
     background-position-x: center;
   /*  border: solid black; */
     display: flex;
